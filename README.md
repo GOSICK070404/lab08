@@ -951,7 +951,7 @@ text3
 
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git commit -m "first commit"
-
+```
 <details><summary>ResultOfCommand</summary>
   <p>
 [master (root-commit) bead6f5] first commit
@@ -1302,10 +1302,9 @@ text3
  create mode 100644 solver_lib/solver.h
  create mode 100644 sources/activate
  create mode 100644 sources/print.cpp
-
+```
 </p>
 </details>
-```
 ```console
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git push origin master      
