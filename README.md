@@ -952,9 +952,8 @@ text3
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git commit -m "first commit"
 
-<details>
-
-<summary>Detail</summary>
+<details><summary>ResultOfCommand</summary>
+  <p>
 [master (root-commit) bead6f5] first commit
  346 files changed, 32205 insertions(+)
  create mode 100644 .Dockerfile.swo
@@ -1304,8 +1303,10 @@ text3
  create mode 100644 sources/activate
  create mode 100644 sources/print.cpp
 
- </details>
 ```
+
+</p>
+</details>
 ```console
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git push origin master      
