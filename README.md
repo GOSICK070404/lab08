@@ -1309,7 +1309,9 @@ text3
 
 </p>
 </details>
-```console
+
+```sh
+
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git push origin master      
 Username for 'https://github.com': GOSICK070404
@@ -1323,8 +1325,8 @@ Total 285 (delta 154), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (154/154), done.
 To https://github.com/GOSICK070404/lab08
  * [new branch]      master -> master
- ```
-```console
+```
+```sh
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git rm .Dockerfile.swp                                     
 rm '.Dockerfile.swp'
