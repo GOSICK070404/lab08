@@ -1303,10 +1303,9 @@ text3
  create mode 100644 sources/activate
  create mode 100644 sources/print.cpp
 
-```
-
 </p>
 </details>
+```
 ```console
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git push origin master      
@@ -1321,6 +1320,7 @@ Total 285 (delta 154), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (154/154), done.
 To https://github.com/GOSICK070404/lab08
  * [new branch]      master -> master
+ ```
 ```console
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git rm .Dockerfile.swp                                     
