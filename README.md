@@ -223,7 +223,8 @@ srw-rw---- 1 kali docker 0 Jun  5 01:40 /var/run/docker.sock
 
 ```
 ```console
-$ docker build -t logger .
+┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
+└─$ docker build -t logger .
 ```
 
 <details><summary>ResultOfCommand</summary>
