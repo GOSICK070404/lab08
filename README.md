@@ -18,12 +18,12 @@ remote: Total 162 (delta 75), reused 128 (delta 58), pack-reused 0
 Получение объектов: 100% (162/162), 1.04 МиБ | 3.86 МиБ/с, готово.
 Определение изменений: 100% (75/75), готово.
 ```
-
+Переключился на репозиторий для ЛР №8
 ```console
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects]
 └─$ cd lab08    
 ```
-Переключился на репозиторий для ЛР №8
+
 ```console
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ git remote remove origin
