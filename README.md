@@ -954,6 +954,9 @@ text3
 ```
 <details><summary>ResultOfCommand</summary>
   <p>
+  
+```sh
+
 [master (root-commit) bead6f5] first commit
  346 files changed, 32205 insertions(+)
  create mode 100644 .Dockerfile.swo
@@ -1303,6 +1306,7 @@ text3
  create mode 100644 sources/activate
  create mode 100644 sources/print.cpp
 ```
+
 </p>
 </details>
 ```console
