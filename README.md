@@ -209,8 +209,6 @@ Jun 05 01:40:41 kali dockerd[707]: time="2023-06-05T01:40:41.399020464-04:00" le
 
 ```
 ```console
-$ docker build -t logger .
-```
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ sudo ls -la /var/run/docker.sock
 srw-rw---- 1 root docker 0 Jun  5 01:40 /var/run/docker.sock
@@ -218,13 +216,12 @@ srw-rw---- 1 root docker 0 Jun  5 01:40 /var/run/docker.sock
 └─$ users
 kali
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
-└─$ sudo chown kali:docker /var/run/docker.sock 
-                                                                                                                                                                                                                                           
+└─$ sudo chown kali:docker /var/run/docker.sock                                                                                                                                                                                                                                        
 ┌──(kali㉿kali)-[~/GOSICK070404/workspace/projects/lab08]
 └─$ sudo ls -la /var/run/docker.sock                   
 srw-rw---- 1 kali docker 0 Jun  5 01:40 /var/run/docker.sock
 
-
+```
 ```console
 $ docker build -t logger .
 ```
